@@ -101,7 +101,10 @@ Visit the given link, your password is your **VPS IP**
 
 # Generate Wallet
 
-After you login, Click on Generate wallet
+After you login, 
+
+Click on Generate wallet
+
 Save your seedphrase, privatekey and public address
 
 # Faucet
